@@ -30,7 +30,7 @@ If you find **NeuroSense** valuable for your research, please cite our work:
 ## Details related to access to the data 
 
 ### Data user agreement
-The terms and conditions for using this dataset are specified in the [LICENCE](LICENCE) file included in this repository. Please review these terms carefully before accessing or using the data.
+The terms and conditions for using this dataset are specified in the [LICENCE](LICENCE.md) file included in this repository. Please review these terms carefully before accessing or using the data.
 
 ### Contact person
 For additional information about the dataset, please contact:
