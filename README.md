@@ -7,19 +7,26 @@ The dataset is hosted on Zenodo and can be accessed upon request at the followin
 
 🔗 [**Download Dataset**](https://zenodo.org/records/14003181)
 
+## 📃 **Link to the Publication**
+
+🔗 [**Read the Paper**](https://ieeexplore.ieee.org/document/10737340)
+
 
 ## 📚 **Citation**
 
 If you find **NeuroSense** valuable for your research, please cite our work:
 
 ```bibtex
-@article{colafiglio2024neurosense,
-  title={NeuroSense: A Novel EEG Dataset Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration},
-  author={Colafiglio, Tommaso and Lombardi, Angela and Sorino, Paolo and Brattico, Elvira and Lof{u}, Domenico and Danese, Danilo and Di Sciascio, Eugenio and Di Noia, Tommaso and Narducci, Fedelucio},
-  journal={IEEE Access},
+@ARTICLE{10737340,
+  author={Colafiglio, Tommaso and Lombardi, Angela and Sorino, Paolo and Brattico, Elvira and Lofù, Domenico and Danese, Danilo and Sciascio, Eugenio Di and Noia, Tommaso Di and Narducci, Fedelucio},
+  journal={IEEE Access}, 
+  title={NeuroSense: A Novel EEG Dataset Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration}, 
   year={2024},
-  doi={10.1109/ACCESS.2024.0429000},
-  url={https://doi.org/10.1109/ACCESS.2024.0429000}
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Videos;Electroencephalography;Feature extraction;Electrodes;Color;Physiology;Brain modeling;Emotion recognition;Protocols;Data mining;Emotion Recognition;EEG Dataset;Low-Cost EEG Devices;Machine Learning;Human-Computer Interaction;Russell’s Model},
+  doi={10.1109/ACCESS.2024.3487932}}
 }
 ```
 
