@@ -101,7 +101,20 @@ research in emotion recognition, human-computer interaction, mental health monit
     
     - For the most up-to-date references and citation formats, please visit [https://sisinflab.poliba.it/neurosense-dataset-request/](https://sisinflab.poliba.it/neurosense-dataset-request/)
     
-    Colafiglio, T., Lombardi, A., Sorino, P., Brattico, E., Lofù, D., Danese, D., Di Sciascio, E., Di Noia, T., & Narducci, F. (2024). NeuroSense: A Novel EEG Dataset Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration. *IEEE Access*. [https://doi.org/10.1109/ACCESS.2024.0429000](https://doi.org/10.1109/ACCESS.2024.0429000)
+    Colafiglio, T., Lombardi, A., Sorino, P., Brattico, E., Lofù, D., Danese, D., Di Sciascio, E., Di Noia, T., & Narducci, F. (2024). NeuroSense: A Novel EEG Dataset Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration. *IEEE Access*. [**Link to the Publication**](https://ieeexplore.ieee.org/document/10737340)
+
+
+> @ARTICLE{10737340,
+>   author={Colafiglio, Tommaso and Lombardi, Angela and Sorino, Paolo and Brattico, Elvira and Lofù, Domenico and Danese, Danilo and Sciascio, Eugenio Di and Noia, Tommaso Di and Narducci, Fedelucio},
+>   journal={IEEE Access}, 
+>   title={NeuroSense: A Novel EEG Dataset Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration}, 
+>   year={2024},
+>   volume={},
+>   number={},
+>   pages={1-1},
+>   keywords={Videos;Electroencephalography;Feature extraction;Electrodes;Color;Physiology;Brain modeling;Emotion recognition;Protocols;Data mining;Emotion Recognition;EEG Dataset;Low-Cost EEG Devices;Machine Learning;Human-Computer Interaction;Russell’s Model},
+>   doi={10.1109/ACCESS.2024.3487932}}
+> }
     
 
 ### 6. User Obligations
