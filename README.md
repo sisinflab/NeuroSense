@@ -18,7 +18,7 @@ If you find **NeuroSense** valuable for your research, please cite our work:
 
 ```bibtex
 @ARTICLE{10737340,
-  author={Colafiglio, Tommaso and Lombardi, Angela and Sorino, Paolo and Brattico, Elvira and Lofù, Domenico and Danese, Danilo and Sciascio, Eugenio Di and Noia, Tommaso Di and Narducci, Fedelucio},
+  author={Colafiglio, Tommaso and Lombardi, Angela and Sorino, Paolo and Brattico, Elvira and Lofù, Domenico and Danese, Danilo and {Di Sciascio}, Eugenio and {Di Noia}, Tommaso and Narducci, Fedelucio},
   journal={IEEE Access}, 
   title={NeuroSense: A Novel EEG Dataset Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration}, 
   year={2024},
